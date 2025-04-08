@@ -17,7 +17,7 @@
   "crons": [
     {
       "path": "/api/tasks/process",
-      "schedule": "* * * * *"
+      "schedule": "0 0 * * *"
     }
   ],
   "github": {
